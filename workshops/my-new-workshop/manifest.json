@@ -1,6 +1,6 @@
 {
     "workshop": {
-        "title": "My New  Workshop",
+        "title": "My New  Workshop", 
         "description": "Description of this workshop.",
         "theme": "default",
         "interactive":"https://launch.oracle.com/?cloudnative",

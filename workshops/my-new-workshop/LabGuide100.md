@@ -4,7 +4,7 @@ Updated: February 10, 2017
 
 ## Introduction
 
-New Introduction
+New Introduction 
 
 ## Objectives
 - Create Initial Project
